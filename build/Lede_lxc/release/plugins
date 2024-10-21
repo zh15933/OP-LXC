@@ -1,7 +1,7 @@
 luci-app-argon-config
-luci-app-filetransfer
 luci-app-firewall
 luci-app-openclash
+luci-app-opkg
 luci-app-passwall
 luci-app-ttyd
 luci-theme-argon
